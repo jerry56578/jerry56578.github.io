@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jerry56578.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-05-15T11:27:34.911Z</updated>
+    <title>果果果丶空来了！</title>
+    <updated>2021-05-15T11:33:37.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jerry56578.github.io"/>
     <link rel="self" href="https://jerry56578.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://jerry56578.github.io/images/avatar.png</logo>
     <icon>https://jerry56578.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 果果果丶空来了！</rights>
     <entry>
         <title type="html"><![CDATA[测试帖]]></title>
         <id>https://jerry56578.github.io/post/ce-shi-tie/</id>
